@@ -1,0 +1,1 @@
+Here is a staging area and single source of truth for all of my blog entries.

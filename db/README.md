@@ -1,0 +1,13 @@
+Here are entries for development-relevant entities, for example:
+- Programming languages
+- Frameworks
+- Algorithms
+- Development tools
+- Software development-related:
+	- Companies
+	- Projects
+- Learning resources:
+  - Blogs and their posts
+  - Podcasts
+  - Youtube channels and their videos
+  - Book descriptions

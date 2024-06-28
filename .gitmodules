@@ -1,0 +1,6 @@
+[submodule "professional"]
+	path = professional
+	url = https://github.com/SecondDevBrain/dev-brain-profile-template
+[submodule "personal"]
+	path = personal
+	url = https://github.com/SecondDevBrain/dev-brain-profile-template
